@@ -70,6 +70,10 @@
     margin-top: 3rem;
 }
 
+footer__copyright p__developer {
+    color: var(--color-golden);
+}
+
 @media screen and (min-width: 2000px) {
     .app__footer-headtext {
         font-size: 51px;
